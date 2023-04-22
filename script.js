@@ -1,0 +1,11 @@
+let surnameMy = "Pavlov";
+let nameMy = "Sergii";
+let nameOne = "Nikolay";
+let nameTwo = "Yura";
+/*let nameThree = "Nikolay";
+let nameFour = "Nik";
+let nameFive = "Rob";
+let nameSix = "Jak";
+let nameSeven = "Alex";
+let nameEight = "Jon";
+let nameNine= "Lola";*/
